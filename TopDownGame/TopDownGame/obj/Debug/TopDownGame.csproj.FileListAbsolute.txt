@@ -1,0 +1,88 @@
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\obj\Debug\TopDownGame.csproj.AssemblyReference.cache
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\obj\Debug\TopDownGame.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\TopDownGame.exe.config
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\TopDownGame.exe
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\TopDownGame.pdb
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\aiv-audio.dll
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\aiv-fast2d.dll
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\NVorbis.dll
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\OpenTK.dll
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\System.ValueTuple.dll
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\NVorbis.xml
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\OpenTK.pdb
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\OpenTK.xml
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\System.ValueTuple.xml
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\obj\Debug\TopDownGame.csproj.CopyComplete
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\obj\Debug\TopDownGame.exe
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\obj\Debug\TopDownGame.pdb
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Tileset.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Map.tmx
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\HEROS8bit_Adventurer Walk D.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\HEROS8bit_Adventurer Walk R.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\HEROS8bit_Adventurer Walk U.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Home1.tmx
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Home2.tmx
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Home3.tmx
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Cavern.tmx
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\item8BIT_gem.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\item8BIT_key.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\item8BIT_pickaxe.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\item8BIT_scroll.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\item8BIT_lamp.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\stone.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\aivBG.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\gameOverBg.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\objects_GUI_frame.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\weapon_GUI_selection.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Sounds\1BITTopDownMusics - Track 01 (1BIT Adventure).wav
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Sounds\1BITTopDownMusics - Track 02 (1BIT Dark Cave).wav
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Sounds\1BITTopDownMusics - Track 03 (1BIT Eerie).wav
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Sounds\Hurt01.wav
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Sounds\Pickup01.wav
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Sounds\Land01.wav
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\pressEnter.png
+C:\Users\alex_\Desktop\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Win.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\aivBG.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\gameOverBg.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\HEROS8bit_Adventurer Walk D.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\HEROS8bit_Adventurer Walk R.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\HEROS8bit_Adventurer Walk U.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\item8BIT_gem.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\item8BIT_key.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\item8BIT_lamp.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\item8BIT_pickaxe.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\item8BIT_scroll.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\pressEnter.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Sounds\1BITTopDownMusics - Track 01 (1BIT Adventure).wav
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Sounds\1BITTopDownMusics - Track 02 (1BIT Dark Cave).wav
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Sounds\1BITTopDownMusics - Track 03 (1BIT Eerie).wav
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Sounds\Hurt01.wav
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Sounds\Land01.wav
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Sounds\Pickup01.wav
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\stone.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Tileset.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\objects_GUI_frame.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\weapon_GUI_selection.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Win.png
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Cavern.tmx
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Home1.tmx
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Home2.tmx
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Home3.tmx
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\Assets\Map.tmx
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\TopDownGame.exe.config
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\TopDownGame.exe
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\TopDownGame.pdb
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\aiv-audio.dll
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\aiv-fast2d.dll
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\NVorbis.dll
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\OpenTK.dll
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\System.ValueTuple.dll
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\NVorbis.xml
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\OpenTK.pdb
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\OpenTK.xml
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\bin\Debug\System.ValueTuple.xml
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\obj\Debug\TopDownGame.csproj.AssemblyReference.cache
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\obj\Debug\TopDownGame.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\obj\Debug\TopDownG.80044821.Up2Date
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\obj\Debug\TopDownGame.exe
+C:\Users\alex_\Desktop\Ale\Programmi aiv c#\Progetto Fine Anno\TopDownGame\TopDownGame\obj\Debug\TopDownGame.pdb
