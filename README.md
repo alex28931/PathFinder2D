@@ -40,3 +40,18 @@ A 2D top-down game developed in C#, focused on intelligent character navigation,
 3. Make sure TMX maps are correctly referenced in the project  
 4. Compile and run the game  
 5. Explore scenes, collect items, and test the dynamic cave mechanic
+
+## 📸 Screenshots
+
+### 🧭 Overworld Scene
+![Overworld](Screenshots/OverWorld.png)
+
+### 🏠 Inside a House
+![House Interior](Screenshots/House.png)
+
+### 🔦 Dark Cave (Before Collecting Torch)
+![Dark Cave - Before](Screenshots/CaveBefore.png)
+
+### 🔥 Cave with Torch (Post-Processing Removed)
+![Dark Cave - After](Screenshots/CaveAfter.png)
+
