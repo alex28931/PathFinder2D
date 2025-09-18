@@ -8,7 +8,7 @@ A 2D top-down game developed in C#, focused on intelligent character navigation,
   The player moves through the game world using a custom A* pathfinding system, enabling smart and obstacle-aware navigation.
 
 - **Tilemap-Based World Design with Tiled**  
-  The game world is built using [Tiled](https://www.mapeditor.org/), a flexible tilemap editor. TMX maps are parsed and rendered in-game to create modular and efficient level layouts.
+  The game world is built using [Tiled](https://www.mapeditor.org/), a flexible tilemap editor. The maps are parsed and rendered in-game to create modular and efficient level layouts.
 
 - **Multi-Scene Environment**  
   The game is composed of several scenes, each with interactive elements and collectible objects.
